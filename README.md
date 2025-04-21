@@ -17,9 +17,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript
+- **Languages**: Python, JavaScript, CypherQuery
 - **Libraries/Frameworks**:
-  - `spaCy` & `NetworkX` – for NLP and graph modeling
+  - `Neo4j` – for Knowledge Graph
+  - `LangChain`
   - `Flask` or custom backend – for API endpoints
   - `PyPDF2` – for parsing PDFs
 - **Frontend (Optional)**: HTML/CSS (light styling support)
